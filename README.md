@@ -3,7 +3,9 @@ Massey study group resources.
 
 # Repositories
 - Python scripts for processing Fasta Files: https://github.com/hulu1/seqIO_basics (Lukas)
+- Document and Beamer templates with Massey Logos. https://github.com/hcalitz/MasseyLatexTemplates (Hannes)
 
+  Please be encouraged to modify and improve the templates in your own fork, and place a link here for others to enjoy it.
 # Tips and Tricks
 
 ## Search bash history with your arrow keys
